@@ -1,1 +1,2 @@
-# Pro-Deo-main-theme
+# improv
+WordPress theme for Pro Deo
